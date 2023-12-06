@@ -5,7 +5,7 @@
 ## Bike Sales Dataset
 1. We cleaned the data
 2. We checked the status of people who purchased bikes the most
-3. We checked the educational level of those who purchase bikes the most
+3. We checked the educational level of those who purchased bikes the most
 4. We checked how regions affect bike sales
 
 
