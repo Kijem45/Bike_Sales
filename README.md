@@ -1,6 +1,7 @@
-# Bike-Sales
+# Bike-Sales Dashboard
 
-![Bikes Sales Dashboard](https://github.com/Kijem45/abs/assets/147368327/708e7cf0-8b92-4289-b5ee-a8e6304432d2)
+![Bikes Sales Dashboard](https://github.com/Kijem45/Bike_Sales/assets/147368327/146ca7f3-ab7f-4868-b168-f5bd2745292d)
+
 
 ## Bike Sales Dataset
 1. I cleaned the data
